@@ -16,6 +16,8 @@ width: 100%;
 
 .sidebar{
   background: #000;
+  position: sticky;
+  top: 0;
   color: #fff;
   height: 100vh;
   width: 250px;
